@@ -1,0 +1,25 @@
+{
+  "name": "27Apr",
+  "type": "package",
+  "blockId": "5KHfa33tt39r2i61d-5al",
+  "source": {
+    "ssh": null,
+    "https": null,
+    "branch": "block_27Apr"
+  },
+  "parentBlockIDs": [],
+  "isPublic": false,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "27Apr_B1": {
+      "directory": "27Apr_B1",
+      "versionId": "Yw3RcnI0-XbFU3dOEi3bE",
+      "version": "0.0.1"
+    }
+  },
+  "version": "0.0.1",
+  "variantOf": "wUgnmK8ItfIf5-sSwQd0L"
+}
